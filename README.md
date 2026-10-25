@@ -3,8 +3,7 @@
 A proof of concept for the "Quick Meal & Symptom Log" module of Rahat Ye, an app that helps users in Turkey track meals and find foods that trigger digestive discomfort. Built with React Native (Expo) and TypeScript, with an offline-first approach.
 
 ## Demo
-
-> Add the screen recording or GIF here, for example: `![Demo](docs/demo.gif)`
+https://github.com/user-attachments/assets/069f075d-8927-4106-b39c-a770fe491ca5
 
 ## Features
 
